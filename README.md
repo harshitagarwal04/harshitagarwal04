@@ -57,17 +57,3 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/harshitagarwal04/harshitagarwal04/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshitagarwal04&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  
-  <br/>
-  
-  ⭐️ From [harshitagarwal04](https://github.com/harshitagarwal04)
-  
-  <br/>
-  
-  <i>Happy Coding! 🚀</i>
-</div>
