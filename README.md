@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-- 🔭 I'm currently working on **AI-powered conversational agents** - Recently built a WhatsApp Assistant using OpenAI's Assistant API
+- 🔭 I'm currently working on **AI-powered conversational agents** - Recently built a WhatsApp Assistant using OpenAI's Assistant API and Twilio
 - 🌱 I'm currently learning **Agentic AI and Advanced LLM Integration**
 - 📫 How to reach me: **[harshitagarwal713@gmail.com]**
 - ⚡ Fun fact: **I love solving complex problems with simple solutions**
