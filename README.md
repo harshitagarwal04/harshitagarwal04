@@ -29,17 +29,19 @@
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitagarwal04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> -->
 <!-- </div> -->
 
-## 💼 Featured Projects
+## 💼 Featured Work
 
-### 🤖 WhatsApp AI Assistant (Enterprise)
-- Developed an intelligent WhatsApp chatbot for organizational use, powered by **OpenAI Assistant API**
-- Implemented conversation context retention and multi-turn dialogue capabilities
-- Successfully deployed in production, handling automated customer interactions
-- **Tech Stack**: Node.js, OpenAI API, WhatsApp Business Cloud API, Express.js
-- *Note: Proprietary organizational project - code not publicly available*
+### 🔊 Voice AI & Workflow Automation (Production)
+- Contributing to an AI-driven B2B platform that integrates Voice AI and automation across microservices
+- Enhanced conversational logic and call flows using **Pipecat**, enabling more coherent Voice AI interactions
+- Built internal automation pipelines in **n8n**, reducing manual processes and integrating multiple backend services
+- Worked on **PGVector**-powered vector search components to enable contextual and intelligent responses
+- **Tech Focus**: Next.js, Python, SQLAlchemy, PostgreSQL, PGVector, Pipecat, n8n, Google Cloud Run
 
-### 🚀 Currently Exploring
-- Building RAG systems with vector databases and multi-agent frameworks using LangChain
+### 🧠 AI Product Engineering
+- Exploring how real-world AI systems are designed, deployed, and scaled
+- Building features that combine **LLM-powered workflows**, vector search, and distributed service communication
+- Interested in scalable architectures and products that solve business problems—not just toy demos
 
 ## 📫 Connect with Me
 <div align="center">
