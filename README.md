@@ -21,13 +21,13 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitagarwal04&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitagarwal04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+
+<!-- ## 📊 GitHub Stats <div align="center"> -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitagarwal04&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" /> -->
+  <!-- &nbsp;&nbsp;&nbsp; -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitagarwal04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> -->
+<!-- </div> -->
 
 ## 💼 Featured Projects
 
